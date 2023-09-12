@@ -1,1 +1,3 @@
-sdsassd
+void main() {
+    print('hello world');
+}
